@@ -1,0 +1,95 @@
+2019-05-21 11:21:08,631  INFO       MainProcess  root parsing arguments 568 <module>
+2019-05-21 11:21:08,652  INFO       MainProcess  root with tf.Session() as sess: 2019-05-21 11:21:08.652273 200 main
+2019-05-21 11:21:10,210  INFO       MainProcess  root class called  2019-05-21 11:21:10.210362 38 __init__
+2019-05-21 11:21:10,211  ERROR      MainProcess  root Ran out of input 49 __init__
+2019-05-21 11:21:10,220  ERROR      MainProcess  root Ran out of input 57 __init__
+2019-05-21 11:21:11,981  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:11.981464 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:11,981  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:11.981464 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:11,981  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:12,155  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:12.155474 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:12,155  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:12.155474 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:12,155  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:12,325  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:12.325483 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:12,325  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:12.325483 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:12,325  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:12,493  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:12.493493 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:12,493  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:12.493493 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:12,493  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:12,659  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:12.659502 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:12,659  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:12.659502 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:12,659  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:12,840  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:12.840513 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:12,840  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:12.840513 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:12,840  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:13,008  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:13.008522 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,009  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:13.009522 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,009  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:13,178  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:13.178532 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,178  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:13.178532 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,178  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:13,344  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:13.344542 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,344  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:13.344542 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,344  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:13,524  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:13.524552 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,524  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:13.524552 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,524  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:13,690  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:13.690561 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,690  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:13.690561 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,690  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:13,862  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:13.862571 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,862  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:13.862571 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:13,862  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:14,030  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:14.030581 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,030  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:14.030581 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,030  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:14,210  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:14.210591 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,210  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:14.210591 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,210  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:14,376  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:14.376601 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,376  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:14.376601 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,376  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:14,542  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:14.542610 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,542  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:14.542610 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,542  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:14,709  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:14.709620 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,709  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:14.709620 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,709  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:14,878  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:14.878629 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,878  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:14.878629 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:14,878  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:15,045  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:15.045639 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,045  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:15.045639 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,045  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:15,211  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:15.211648 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,211  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:15.211648 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,211  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:15,380  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:15.380658 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,381  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:15.381658 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,381  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:15,548  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:15.548668 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,548  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:15.548668 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,548  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:15,722  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:15.722678 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,723  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:15.723678 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,723  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:15,895  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:15.895688 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,895  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:15.895688 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:15,895  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:16,071  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:16.071698 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,071  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:16.071698 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,071  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:16,247  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:16.247708 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,248  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:16.248708 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,248  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:16,419  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:16.419718 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,420  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:16.420718 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,420  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:16,595  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:16.595728 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,595  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:16.595728 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,595  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:16,763  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:16.763737 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,763  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:16.763737 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,763  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:16,934  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:16.934747 65 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,934  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:16.934747 68 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:16,934  INFO       MainProcess  root Attendance registered ! 482 show_frame

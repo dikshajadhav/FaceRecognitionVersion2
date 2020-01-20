@@ -1,0 +1,271 @@
+2019-05-21 11:20:39,495  INFO       MainProcess  root parsing arguments 568 <module>
+2019-05-21 11:20:39,515  INFO       MainProcess  root with tf.Session() as sess: 2019-05-21 11:20:39.515607 201 main
+2019-05-21 11:20:41,070  INFO       MainProcess  root class called  2019-05-21 11:20:41.070696 39 __init__
+2019-05-21 11:20:41,070  ERROR      MainProcess  root Ran out of input 50 __init__
+2019-05-21 11:20:41,080  ERROR      MainProcess  root Ran out of input 58 __init__
+2019-05-21 11:20:41,082  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:41,391  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 32197 393 _make_request
+2019-05-21 11:20:42,673  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:42.673787 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:42,673  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:42.673787 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:42,673  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:42,693  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:42,853  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 31246 393 _make_request
+2019-05-21 11:20:43,066  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:43.066810 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:43,066  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:43.066810 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:43,066  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:43,086  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:43,148  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 32992 393 _make_request
+2019-05-21 11:20:43,353  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:43.353826 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:43,354  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:43.354826 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:43,354  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:43,370  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:43,408  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33728 393 _make_request
+2019-05-21 11:20:43,631  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:43.630842 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:43,631  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:43.631842 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:43,631  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:43,647  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:43,708  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33246 393 _make_request
+2019-05-21 11:20:43,926  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:43.926859 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:43,926  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:43.926859 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:43,926  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:43,942  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:43,973  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 32398 393 _make_request
+2019-05-21 11:20:44,184  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:44.184874 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:44,185  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:44.184874 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:44,185  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:44,200  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:44,667  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 32259 393 _make_request
+2019-05-21 11:20:44,882  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:44.882914 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:44,882  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:44.882914 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:44,882  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:44.882914 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:44,890  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:44,906  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:44,929  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 32653 393 _make_request
+2019-05-21 11:20:45,146  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:45.146929 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:45,146  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:45.146929 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:45,146  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:45.146929 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:45,153  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:45,168  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:45,308  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 32823 393 _make_request
+2019-05-21 11:20:45,520  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:45.520950 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:45,520  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:45.520950 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:45,520  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:45,536  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:45,573  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 32583 393 _make_request
+2019-05-21 11:20:45,787  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:45.787965 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:45,787  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:45.787965 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:45,787  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:45,803  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:46,271  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 32737 393 _make_request
+2019-05-21 11:20:46,482  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:46.482005 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:46,482  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:46.482005 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:46,482  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:46,498  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:46,520  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33212 393 _make_request
+2019-05-21 11:20:46,733  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:46.733020 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:46,733  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:46.733020 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:46,733  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:46.733020 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:46,740  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:46,756  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:46,914  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33312 393 _make_request
+2019-05-21 11:20:47,128  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:47.128042 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:47,128  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:47.128042 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:47,128  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:47.128042 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:47,136  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:47,151  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:47,244  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33370 393 _make_request
+2019-05-21 11:20:47,461  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:47.461061 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:47,462  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:47.461061 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:47,462  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:47.462061 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:47,469  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:47,489  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:47,867  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33437 393 _make_request
+2019-05-21 11:20:48,083  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:48.083097 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:48,083  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:48.083097 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:48,083  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:48.083097 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:48,090  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:48,106  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:48,199  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33438 393 _make_request
+2019-05-21 11:20:48,415  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:48.415116 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:48,415  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:48.415116 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:48,415  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:48.415116 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:48,422  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:48,438  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:48,509  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33417 393 _make_request
+2019-05-21 11:20:48,722  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:48.721133 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:48,722  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:48.722133 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:48,722  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:48.722133 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:48,729  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:48,745  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:48,921  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33315 393 _make_request
+2019-05-21 11:20:49,133  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:49.133157 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:49,133  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:49.133157 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:49,133  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:49.133157 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:49,141  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:49,158  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:49,239  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33471 393 _make_request
+2019-05-21 11:20:49,447  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:49.447175 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:49,447  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:49.447175 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:49,447  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:49.447175 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:49,455  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:49,471  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:49,549  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33498 393 _make_request
+2019-05-21 11:20:49,762  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:49.762193 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:49,762  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:49.762193 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:49,762  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:49.762193 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:49,770  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:49,785  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:49,879  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33297 393 _make_request
+2019-05-21 11:20:50,096  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:50.096212 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:50,096  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:50.096212 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:50,096  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:50.096212 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:50,102  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:50,124  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:50,502  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33321 393 _make_request
+2019-05-21 11:20:50,717  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:50.717247 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:50,717  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:50.717247 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:50,717  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:50.717247 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:50,725  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:50,741  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:50,764  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33395 393 _make_request
+2019-05-21 11:20:50,975  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:50.975262 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:50,975  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:50.975262 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:50,975  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:50.975262 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:50,983  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:50,999  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:51,139  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33291 393 _make_request
+2019-05-21 11:20:51,351  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:51.351284 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:51,351  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:51.351284 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:51,351  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:51.351284 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:51,357  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:51,372  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:51,404  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33151 393 _make_request
+2019-05-21 11:20:51,614  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:51.614299 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:51,614  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:51.614299 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:51,614  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:51.614299 73 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:51,620  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:51,636  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:52,102  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33040 393 _make_request
+2019-05-21 11:20:52,321  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:52.321339 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:52,321  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:52.321339 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:52,321  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:52,337  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:52,359  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33076 393 _make_request
+2019-05-21 11:20:52,565  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:52.565353 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:52,565  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:52.565353 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:52,565  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:52,588  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:52,739  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33259 393 _make_request
+2019-05-21 11:20:52,949  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:52.949375 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:52,949  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:52.949375 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:52,949  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:52,979  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:53,003  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33323 393 _make_request
+2019-05-21 11:20:53,221  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:53.221391 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:53,221  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:53.221391 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:53,221  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:53,239  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:53,697  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33238 393 _make_request
+2019-05-21 11:20:53,907  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:53.907430 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:53,907  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:53.907430 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:53,907  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:53,930  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:53,959  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33300 393 _make_request
+2019-05-21 11:20:54,177  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:54.177445 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:54,178  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:54.178445 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:54,178  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:54,208  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:54,339  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33333 393 _make_request
+2019-05-21 11:20:54,552  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:54.552467 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:54,552  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:54.552467 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:54,552  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:54,584  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:54,603  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33291 393 _make_request
+2019-05-21 11:20:54,814  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:54.814482 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:54,814  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:54.814482 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:54,814  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:54,834  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:55,302  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33249 393 _make_request
+2019-05-21 11:20:55,515  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:55.515522 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:55,515  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:55.515522 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:55,515  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:55,531  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:55,559  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33133 393 _make_request
+2019-05-21 11:20:55,778  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:55.778537 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:55,778  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:55.778537 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:55,778  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:55,794  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:55,944  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33139 393 _make_request
+2019-05-21 11:20:56,155  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:56.155558 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:56,155  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:56.155558 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:56,156  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:56,171  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:56,203  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33207 393 _make_request
+2019-05-21 11:20:56,416  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:56.416573 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:56,416  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:56.416573 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:56,416  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:56,432  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:56,902  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33229 393 _make_request
+2019-05-21 11:20:57,116  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:57.116613 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:57,116  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:57.116613 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:57,116  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:57,136  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:57,159  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33158 393 _make_request
+2019-05-21 11:20:57,370  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:57.370628 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:57,370  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:57.370628 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:57,370  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:57,390  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:57,539  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33217 393 _make_request
+2019-05-21 11:20:57,759  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:57.759650 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:57,759  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:57.759650 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:57,759  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:57,785  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:57,803  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33117 393 _make_request
+2019-05-21 11:20:58,019  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:58.019665 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:58,020  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:58.020665 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:58,020  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:58,050  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:58,496  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33259 393 _make_request
+2019-05-21 11:20:58,711  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:58.711705 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:58,711  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:58.711705 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:58,711  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:58,733  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:58,829  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33222 393 _make_request
+2019-05-21 11:20:59,042  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:59.042724 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:59,042  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:59.042724 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:59,042  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:59,058  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:59,139  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33178 393 _make_request
+2019-05-21 11:20:59,352  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:59.352741 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:59,353  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:59.353741 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:59,353  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:59,369  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:59,389  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 32377 393 _make_request
+2019-05-21 11:20:59,593  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:59.593755 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:59,593  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:59.593755 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:59,593  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:59,608  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:59,699  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 31650 393 _make_request
+2019-05-21 11:20:59,909  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:20:59.909773 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:59,909  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:20:59.909773 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:20:59,909  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:20:59,925  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:20:59,953  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33096 393 _make_request
+2019-05-21 11:21:00,164  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:00.164788 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:00,164  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:00.164788 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:00,164  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:00,180  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:21:00,586  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33737 393 _make_request
+2019-05-21 11:21:00,797  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:00.797824 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:00,797  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:00.797824 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:00,797  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:00,813  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:21:00,913  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33684 393 _make_request
+2019-05-21 11:21:01,127  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:01.127843 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:01,128  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:01.128843 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:01,128  INFO       MainProcess  root Attendance registered ! 482 show_frame
+2019-05-21 11:21:01,277  DEBUG      MainProcess  urllib3.connectionpool Starting new HTTP connection (1): 192.168.1.7:80 205 _new_conn
+2019-05-21 11:21:01,298  DEBUG      MainProcess  urllib3.connectionpool http://192.168.1.7:80 "GET /SnapshotJPEG?Resolution=640x480 HTTP/1.1" 200 33872 393 _make_request
+2019-05-21 11:21:01,517  INFO       MainProcess  root distance_matrix = pairwise_distances(embs, self.embeddings) 2019-05-21 11:21:01.517865 66 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:01,517  INFO       MainProcess  root min_index = np.argmin(distance_row) 2019-05-21 11:21:01.517865 69 FindPersonNameBasedOnEmbeddingDistance
+2019-05-21 11:21:01,517  INFO       MainProcess  root Attendance registered ! 482 show_frame

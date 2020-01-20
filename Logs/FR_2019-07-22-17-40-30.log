@@ -1,0 +1,5 @@
+2019-07-22 17:40:30,351  INFO       MainProcess  root parsing arguments 568 <module>
+2019-07-22 17:40:30,400  INFO       MainProcess  root with tf.Session() as sess: 2019-07-22 17:40:30.400173 200 main
+2019-07-22 17:40:32,895  INFO       MainProcess  root class called  2019-07-22 17:40:32.895316 38 __init__
+2019-07-22 17:40:32,918  ERROR      MainProcess  root Ran out of input 49 __init__
+2019-07-22 17:40:32,956  ERROR      MainProcess  root Ran out of input 57 __init__
